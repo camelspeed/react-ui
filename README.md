@@ -1,4 +1,3 @@
 # Learning React / Redux UI Development
 
-- First tutorial was developing a [Tic-Tac-Toe](https://reactjs.org/tutorial/tutorial.html) game from ReactJS website.
-  - [my-app](./my-app) | [README](./README.md)
+- [First tutorial](https://reactjs.org/tutorial/tutorial.html) was developing a Tic-Tac-Toe [game](./myapp) from ReactJS website.
